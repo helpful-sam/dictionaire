@@ -1,4 +1,6 @@
-# Daily Words
+# DICTIONAIRE
+ Obtain a richer range of diction... become a diction millionaire: dictionaire!
+
  An application built with Tauri, get a new word each day and see its definition and example sentences!
 
 # Attributions
